@@ -1,0 +1,4 @@
+name = login
+description = Override the user login form
+core = 7.x
+files[] = loginform.module
